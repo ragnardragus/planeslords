@@ -1,0 +1,30 @@
+{
+  "json_version": 3,
+  "variables":
+  [
+    {
+      "code": "armor",
+      "replacement": "helmet.png",
+      "force_tint": "False",
+      "image_offset": "0, -0.15"
+    },
+    {
+      "code": "last_skill",
+      "replacement": "last_skill.png",
+      "force_tint": "True",
+      "image_offset": "0, -0.15"
+    },
+    {
+      "code": "summon",
+      "replacement": "summon.png",
+      "force_tint": "True",
+      "image_offset": "0, -0.15"
+    },
+    {
+      "code": "Y",
+      "replacement": "mana_neutral.png",
+      "force_tint": "True",
+      "image_offset": "0, -0.15"
+    }
+  ]
+}

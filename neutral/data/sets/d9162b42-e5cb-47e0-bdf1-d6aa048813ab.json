@@ -1,0 +1,312 @@
+{
+  "json_version": 3,
+  "name": "set_001",
+  "blueprint_name": "unity_neutral",
+  "hint_order_index": 0,
+  "zoom": 0,
+  "items":
+  [
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1689629178,
+      "details":
+      [
+        {
+          "name": "hp_value",
+          "data":
+          {
+            "value": "{armor}2",
+            "text_alignment_h": "right"
+          }
+        },
+        {
+          "name": "artwork",
+          "data":
+          {
+            "img_fit_mode": "fitwidth",
+            "img_offset": "0, 0",
+            "img_zoom": "1",
+            "value": "artworks/dummy.jpg"
+          }
+        },
+        {
+          "name": "text",
+          "data":
+          {
+            "text_outline_size": "2",
+            "text_line_spacing": "-10",
+            "text_size": "2.3",
+            "text_font": "Garamond",
+            "text_alignment_h": "justified",
+            "text_alignment_v": "top",
+            "value": "<b>Atirador</b> <i>(Posso escolher unidades com Alado para defender meu ataque e também posso contra-atacar unidades aladas.)</i>\n\n{summon} : Cause 1 de dano a uma unidade alvo.",
+            "text_char_spacing": "2"
+          }
+        },
+        {
+          "name": "defense",
+          "data":
+          {
+            "value": "1"
+          }
+        },
+        {
+          "name": "attack",
+          "data":
+          {
+            "value": "1"
+          }
+        },
+        {
+          "name": "name",
+          "data":
+          {
+            "value": "Arqueiro Ordinario"
+          }
+        },
+        {
+          "name": "type",
+          "data":
+          {
+            "value": "Unidade — Humano Arqueiro",
+            "text_size_min": "2.3",
+            "text_outline_size": "2"
+          }
+        },
+        {
+          "name": "lore",
+          "data":
+          {
+            "value": "Atirador Cineriano experiente, perante as ameaças aéreas.",
+            "text_outline_size": "1"
+          }
+        },
+        {
+          "name": "mana",
+          "data":
+          {
+            "value": "{Y}"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1689594315,
+      "details":
+      [
+        {
+          "name": "name",
+          "data":
+          {
+            "value": "Bode da Cordilheira",
+            "text_size_max": "3.8"
+          }
+        },
+        {
+          "name": "text",
+          "data":
+          {
+            "value": "<b>Investida</b> <i>(Quando eu entro em campo, também posso atacar campeões diretamente.)</i>"
+          }
+        },
+        {
+          "name": "type",
+          "data":
+          {
+            "value": "Unidade — Animal",
+            "text_size_min": "2.3"
+          }
+        },
+        {
+          "name": "mana",
+          "data":
+          {
+            "value": "{Y}"
+          }
+        },
+        {
+          "name": "hp_value",
+          "data":
+          {
+            "value": "{armor}1",
+            "text_alignment_h": "right"
+          }
+        },
+        {
+          "name": "attack",
+          "data":
+          {
+            "value": "1"
+          }
+        },
+        {
+          "name": "defense",
+          "data":
+          {
+            "value": "1"
+          }
+        },
+        {
+          "name": "lore",
+          "data":
+          {
+            "value": "\"Cuidado! Não chegue muito perto! Se ele te acertar, a queda daqui de cima será fatal.\"",
+            "text_size": "2.2"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1689594311,
+      "details":
+      [
+        {
+          "name": "type",
+          "data":
+          {
+            "value": "Unidade — Humano"
+          }
+        },
+        {
+          "name": "mana",
+          "data":
+          {
+            "value": "{Y}"
+          }
+        },
+        {
+          "name": "hp_value",
+          "data":
+          {
+            "value": "{armor}3",
+            "text_alignment_h": "right"
+          }
+        },
+        {
+          "name": "defense",
+          "data":
+          {
+            "value": "0"
+          }
+        },
+        {
+          "name": "attack",
+          "data":
+          {
+            "value": "1"
+          }
+        },
+        {
+          "name": "name",
+          "data":
+          {
+            "value": "Dono da Taverna"
+          }
+        },
+        {
+          "name": "text",
+          "data":
+          {
+            "value": "Sempre que você jogar uma unidade da sua mão, restaure 3 pontos de vida do seu campeão."
+          }
+        },
+        {
+          "name": "lore",
+          "data":
+          {
+            "value": "\"Atrás de aventuras? Não posso te ajudar, ou talvez sim, se você pedir uma bebida.\"",
+            "text_autosize": "True"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1689594306,
+      "details":
+      [
+        {
+          "name": "text",
+          "data":
+          {
+            "value": "{last_skill} : Compre uma carta."
+          }
+        },
+        {
+          "name": "attack",
+          "data":
+          {
+            "value": "1"
+          }
+        },
+        {
+          "name": "defense",
+          "data":
+          {
+            "value": "1"
+          }
+        },
+        {
+          "name": "hp_value",
+          "data":
+          {
+            "value": "{armor}1",
+            "text_alignment_h": "right"
+          }
+        },
+        {
+          "name": "mana",
+          "data":
+          {
+            "value": "{Y}"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1689594303,
+      "details":
+      [
+        {
+          "name": "text",
+          "data":
+          {
+            "value": "Eu tenho {armor}+3 enquanto estiver me defendendo ou atacando uma unidade."
+          }
+        },
+        {
+          "name": "hp_value",
+          "data":
+          {
+            "value": "{armor}1",
+            "text_alignment_h": "right"
+          }
+        },
+        {
+          "name": "mana",
+          "data":
+          {
+            "value": "{Y}"
+          }
+        },
+        {
+          "name": "attack",
+          "data":
+          {
+            "value": "1"
+          }
+        },
+        {
+          "name": "defense",
+          "data":
+          {
+            "value": "0"
+          }
+        }
+      ]
+    }
+  ]
+}
